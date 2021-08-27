@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSeipjQhMu8FdjFYNZa/2wf6Hsd2jPLeSvKc3w76gMtqZgT6EgDYEULS9wsVfYx8TntdXHAstvuxKuEqI9nrag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ENVY\\source\\repos\\momentum2\\momentum2.iOS\\momentum2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ENVY\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
